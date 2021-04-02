@@ -17,8 +17,8 @@ int count_zero(int n)
 
 int main() {
 	// your code goes here
-	int n;
-	cin >> n;
-	cout<<count_zero(n);
+	int m;
+	cin >> m;
+	cout<<count_zero(m);
 	return 0;
 }
